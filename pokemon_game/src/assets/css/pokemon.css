@@ -1,0 +1,13 @@
+.gradient {
+    background-image: radial-gradient(circle, #ffffff, #f0eeff, #dfddff, #cdcdff, #b8beff, 
+    #a2a9f3, #8c94e7, #7680db, #5e61c0, #4742a4, #312489, #19006d);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cove;
+    height: 100vh;
+
+}
+
+.pokemon-shadow{
+    filter: brightness(0%)
+}
